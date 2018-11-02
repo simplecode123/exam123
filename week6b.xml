@@ -1,0 +1,18 @@
+<web-app>
+ <servlet>
+  <servlet-name>servlets</servlet-name>
+  <servlet-class>servletuservalid</servlet-class>
+  <init-param>
+  <param-name>username</param-name>
+  <param-value>shiva</param-value>
+  </init-param>
+  <init-param>
+  <param-name>password</param-name>
+  <param-value>123456</param-value>
+  </init-param>
+</servlet>
+ <servlet-mapping>
+  <servlet-name>servlets</servlet-name>
+  <url-pattern>/servlets</url-pattern>
+ </servlet-mapping>
+ </web-app>
