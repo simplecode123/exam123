@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE BOOKS SYSTEM "/home/shiva/book.dtd">
+<BOOKS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/home/shiva/shi.xsd">
+<Book>
+<title>the love</title>
+<author>shiva</author>
+<isbn>1234</isbn>
+</Book>
+</BOOKS>
